@@ -4,7 +4,8 @@ Devops interview preparation- questions with answers
 **CONTAINERIZATION, DOCKER & KUBERNETES**
 
 1. What is Virtual Machine?
-    **Functionality**: VMs operate on a physical machine known as the host, while the VMs themselves are referred to as guests. Each VM runs in its own isolated environment, which means multiple VMs can run simultaneously on a single host without interfering with each other.
+
+   **Functionality**: VMs operate on a physical machine known as the host, while the VMs themselves are referred to as guests. Each VM runs in its own isolated environment, which means multiple VMs can run simultaneously on a single host without interfering with each other.
    
     **Hypervisor Role**: The management of VMs is handled by a hypervisor, which allocates the host's resources (like CPU, memory, and storage) to the VMs as needed
 
