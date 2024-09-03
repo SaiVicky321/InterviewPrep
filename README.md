@@ -3,7 +3,7 @@ Devops interview preparation- questions with answers
 
 **CONTAINERIZATION, DOCKER & KUBERNETES**
 
-1. What is Virtual Machine?
+1. What is functionality of Virtual Machine?
 
    **Functionality**: VMs operate on a physical machine known as the host, while the VMs themselves are referred to as guests. Each VM runs in its own isolated environment, which means multiple VMs can run simultaneously on a single host without interfering with each other.
    
