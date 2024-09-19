@@ -59,11 +59,7 @@ A Git repository (or repo) is like a file structure that stores all the files fo
 
 What is the difference between Git and GitHub?
 
-Git	GitHub
-Git is a version control system used to track changes in files over time	GitHub is a platform where Git repositories can be stored and shared
-It runs locally on your computer	It is a cloud-based service
-Git can be used offline, as it operates locally on your machine.	GitHub requires an internet connection because it is hosted on the web
-![image](https://github.com/user-attachments/assets/2b276526-970f-4172-944c-7ce7b04aa99c)
+[image](https://github.com/user-attachments/assets/2b276526-970f-4172-944c-7ce7b04aa99c)
 
 
 What is origin in git?
