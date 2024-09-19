@@ -46,3 +46,50 @@ Devops interview preparation- questions with answers
 
 3. What is the difference between a container and a virtual machine?
    
+
+
+ What is git?
+Git is a distributed version control system that is used to track changes in source code during software development. It permits multiple developers to work on a project together without interrupting each other’s changes. Git is especially popular for its speed, and ability to manage both small and large projects capably.
+
+What is a repositories in git?
+
+A Git repository (or repo) is like a file structure that stores all the files for a project. It continues track changes made to these files over time, helping teams work together evenly. Git can control both local repositories (on your own machine) and remote repositories (usually hosted on platforms like GitHub, GitLab, or Bitbucket), allowing teamwork and backup.
+
+
+
+What is the difference between Git and GitHub?
+
+Git
+
+Git is a version control system used to track changes in files over time
+
+It runs locally on your computer
+
+Git can be used offline, as it operates locally on your machine.
+
+GitHub
+
+GitHub is a platform where Git repositories can be stored and shared
+
+It is a cloud-based service
+
+GitHub requires an internet connection because it is hosted on the web
+
+What is origin in git?
+In Git, “origin” states to the default name offered to the remote repository from which local repository was cloned. It is used as a reference to control fetches, pulls, and pushes.
+
+What is the purpose of the .gitignore file?
+The ‘.gitignore’ file tells Git which files and folders to ignore when tracking changes. It is used to avoid attaching unneeded files (like logs, temporary files, or compiled code) to your repository. This saves repository clean and targeted on important files only.
+
+What is a version control system (VCS)?
+A version control system (VCS) records the work of developers coordinating on projects. It keeps the history of code changes, permitting developers to add new code, fix bugs, and run tests securely. If required, they can restore a past working version, verifying project security.
+
+What is the git push command?
+The ‘git push‘ command is used to share local repository changes to a remote repository. It changes the remote repository with the recent commits from the fixed local branch.
+
+What is the git pull command?
+The ‘git pull‘ command updates the current local branch with changes from a remote repository and combining it with a local repository
+
+What does git clone do?
+The ‘git clone’ forms a copy of a remote repository upon your local machine. It downloads all files, branches, and history, enabling you to start working on the project or contribute to it. With git clone -b , you can download and work on an individual branch of a repository
+
