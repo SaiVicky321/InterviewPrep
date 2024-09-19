@@ -59,7 +59,8 @@ A Git repository (or repo) is like a file structure that stores all the files fo
 
 What is the difference between Git and GitHub?
 
-[image](https://github.com/user-attachments/assets/2b276526-970f-4172-944c-7ce7b04aa99c)
+![image](https://github.com/user-attachments/assets/668e57e9-5590-4bae-b62e-3445124e87da)
+
 
 
 What is origin in git?
